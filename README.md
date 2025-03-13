@@ -1,2 +1,6 @@
-# SmartSched
-aplikasi pengingat berbasis Ai untuk menjadi teman reminder user dalam mengerjakan tugas tugasnya
+#SmarSched
+Kerenkan hidupmu
+Kelompok Keren
+Ketua Kelompok: gavimd
+Anggota 1: Bagas
+Anggota 2: Aurora
